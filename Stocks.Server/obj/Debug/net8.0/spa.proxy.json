@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\youse\\Desktop\\Projects\\FullStack\\.Net\\Stocks\\Stocks.Server\\..\\stocks.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
